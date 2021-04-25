@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062390348087",
+    "project_id": "lahackseducation",
+    "storage_bucket": "lahackseducation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062390348087:android:ef60c8d6ff827a088242b2",
+        "android_client_info": {
+          "package_name": "com.example.losaltoshackseducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062390348087-keegvpejfsb39i1a7ab97a4oc20od0f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCift8vmpr6eKhILNXzm9fx5vN9hry8iww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062390348087-keegvpejfsb39i1a7ab97a4oc20od0f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
